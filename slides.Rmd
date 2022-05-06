@@ -117,6 +117,10 @@ background-size: cover
 
 ---
 
+background-image: url("figures/lidar_boundaries_map.png")
+background-size: contain
+
+---
 
 background-image: url("figures/colored.png")
 background-size: cover
@@ -176,12 +180,12 @@ background-size: contain
 
 ---
 
-background-image: url("figures/agb.png")
+background-image: url("figures/all_metrics.png")
 background-size: contain
 
 ---
 
-background-image: url("figures/all_metrics.png")
+background-image: url("figures/lulc_boundaries.png")
 background-size: contain
 
 ---
@@ -214,6 +218,4 @@ This work was financially supported by the Climate & Applied Forest Research Ins
 `r icons::fontawesome("globe")` [www.lucaskjohnson.com](https://www.lucaskjohnson.com/)
 
 <br />
-
-
 
