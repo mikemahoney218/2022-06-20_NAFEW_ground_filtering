@@ -211,6 +211,9 @@ This work was financially supported by the Climate & Applied Forest Research Ins
 
 <br />
 
+#### Preprint:
+`r icons::fontawesome("link")` [mm218.dev/NAFEW](mm218.dev/NAFEW)
+
 #### Find me online:
 
 `r icons::fontawesome("github")` [@lucas-johnson](https://github.com/lucas-johnson/) 
