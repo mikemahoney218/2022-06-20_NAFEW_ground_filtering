@@ -1,5 +1,5 @@
 # Slide 1
-Hi everyone! I'm Lucas Johnson, and I'm excited to talk to you all today about our study on ground noise filtering when modeling aboveground biomass. 
+Hi everyone! I'm Lucas Johnson, and I'm excited to talk to you all today about our study on ground noise filtering when modeling aboveground biomass with LiDAR data. 
 
 # Slide 2
 To start off, I should introduce myself! I'm currently a PhD student at the State University of New York College of Environmental Science and Forestry, working on mapping forest aboveground biomass across the state of New York to try and track carbon sequestration.
