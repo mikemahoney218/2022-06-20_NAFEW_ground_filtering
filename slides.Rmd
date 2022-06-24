@@ -212,7 +212,7 @@ This work was financially supported by the Climate & Applied Forest Research Ins
 <br />
 
 #### Preprint:
-`r icons::fontawesome("link")` [mm218.dev/NAFEW](mm218.dev/NAFEW)
+`r icons::fontawesome("link")` [mm218.dev/NAFEW](https://mm218.dev/NAFEW)
 
 #### Find me online:
 
